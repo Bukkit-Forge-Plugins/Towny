@@ -1753,3 +1753,5 @@ v0.82.0.6:
 	- Fix town and outpost claiming to use the correct permission child nodes.
 	- Add missing getHandlersList() to Towny events.
 	- '/town leave' now triggers a TownRemoveResidentEvent.
+Jenkins:
+	- Testing Jenkins
